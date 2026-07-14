@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Databricks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
